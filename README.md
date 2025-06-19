@@ -18,6 +18,7 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix (Power BI project file), .xlsx (data source).
 
 📊 Data Source
+
 a.Source: Internal dataset (Excel-based) capturing global chocolate shipment activity.
 
 b.Shipments: Contains transactional shipment data with order date, boxes, amount, and status.
@@ -31,6 +32,7 @@ Calendar: A date dimension table supporting time-based slicing and trends.
 The sales team lacked a comprehensive view of chocolate sales by geography, product type, and team. There was no unified tool to identify top performers, regional preferences, or product trends.
 
 • Goal of the Dashboard
+
 a.To build a visual analytics platform that:
 
 b.Tracks and compares chocolate shipments over time.
@@ -40,6 +42,7 @@ c.Evaluates sales team and product performance across regions.
 d.Supports decisions around product focus and market strategies.
 
 • Walkthrough of Key Visuals
+
 a.Global KPIs: Total Sales Amount, Boxes Shipped, Number of Deliveries, Average Order Size.
 
 b.Monthly Sales Trends: Line chart showing fluctuations in shipments and revenue over time.
