@@ -18,11 +18,11 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix (Power BI project file), .xlsx (data source).
 
 📊 Data Source
-Source: Internal dataset (Excel-based) capturing global chocolate shipment activity.
+a.Source: Internal dataset (Excel-based) capturing global chocolate shipment activity.
 
-Shipments: Contains transactional shipment data with order date, boxes, amount, and status.
+b.Shipments: Contains transactional shipment data with order date, boxes, amount, and status.
 
-Dimension Data: Provides lookup mappings for product attributes, region info, and salesperson data.
+c.Dimension Data: Provides lookup mappings for product attributes, region info, and salesperson data.
 
 Calendar: A date dimension table supporting time-based slicing and trends.
 
@@ -31,28 +31,28 @@ Calendar: A date dimension table supporting time-based slicing and trends.
 The sales team lacked a comprehensive view of chocolate sales by geography, product type, and team. There was no unified tool to identify top performers, regional preferences, or product trends.
 
 • Goal of the Dashboard
-To build a visual analytics platform that:
+a.To build a visual analytics platform that:
 
-Tracks and compares chocolate shipments over time.
+b.Tracks and compares chocolate shipments over time.
 
-Evaluates sales team and product performance across regions.
+c.Evaluates sales team and product performance across regions.
 
-Supports decisions around product focus and market strategies.
+d.Supports decisions around product focus and market strategies.
 
 • Walkthrough of Key Visuals
-Global KPIs: Total Sales Amount, Boxes Shipped, Number of Deliveries, Average Order Size.
+a.Global KPIs: Total Sales Amount, Boxes Shipped, Number of Deliveries, Average Order Size.
 
-Monthly Sales Trends: Line chart showing fluctuations in shipments and revenue over time.
+b.Monthly Sales Trends: Line chart showing fluctuations in shipments and revenue over time.
 
-Top Products & Categories: Bar charts ranking chocolates by revenue and boxes sold.
+c.Top Products & Categories: Bar charts ranking chocolates by revenue and boxes sold.
 
-Region-wise Sales Heatmap: Map visual identifying top-performing global markets.
+d.Region-wise Sales Heatmap: Map visual identifying top-performing global markets.
 
-Salesperson Leaderboard: Dynamic ranking of team members by revenue and order count.
+e.Salesperson Leaderboard: Dynamic ranking of team members by revenue and order count.
 
-Order Status Breakdown: Pie chart showing delivery vs pending ratios.
+f.Order Status Breakdown: Pie chart showing delivery vs pending ratios.
 
-Sales by Team/Region: Stacked visuals enabling team performance and regional splits.
+g.Sales by Team/Region: Stacked visuals enabling team performance and regional splits.
 
 • Business Impact & Insights
 📈 Performance Optimization: Helped leadership identify top salespeople and best-selling products.
