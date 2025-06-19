@@ -58,7 +58,14 @@ f.Order Status Breakdown: Pie chart showing delivery vs pending ratios.
 g.Sales by Team/Region: Stacked visuals enabling team performance and regional splits.
 
 • Business Impact & Insights
+
 📈 Performance Optimization: Helped leadership identify top salespeople and best-selling products.
+
+🌍 Market Strategy: Regional preferences enabled focused marketing and resource allocation.
+
+🔍 Trend Analysis: Clear visibility into seasonal demand helped manage inventory.
+
+🤝 Team Coaching: Performance tracking enabled targeted feedback and incentives for sales reps.
 
 Dashboards
 
@@ -67,8 +74,4 @@ Dashboards
 
 
 
-🌍 Market Strategy: Regional preferences enabled focused marketing and resource allocation.
 
-🔍 Trend Analysis: Clear visibility into seasonal demand helped manage inventory.
-
-🤝 Team Coaching: Performance tracking enabled targeted feedback and incentives for sales reps.
