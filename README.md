@@ -71,6 +71,8 @@ g.**Sales by Team/Region**: Stacked visuals enabling team performance and region
 
 ![Dashboard_1](https://github.com/user-attachments/assets/c2831f3c-67ee-4d2b-b8c9-3ca58dc29083)
 ![Dashboard_2](https://github.com/user-attachments/assets/3d1e3a64-91a5-41be-aac4-1c3c4ee1bd3c)
+![Dashboard 3 - Sales report](https://github.com/user-attachments/assets/a1860371-67fb-4bce-b276-d160bdfa1219)
+
 
 
 
