@@ -33,13 +33,13 @@ The sales team lacked a comprehensive view of chocolate sales by geography, prod
 
 • **Goal of the Dashboard**
 
-a.To build a visual analytics platform that:
+To build a visual analytics platform that:
 
-b.Tracks and compares chocolate shipments over time.
+a.Tracks and compares chocolate shipments over time.
 
-c.Evaluates sales team and product performance across regions.
+b.Evaluates sales team and product performance across regions.
 
-d.Supports decisions around product focus and market strategies.
+c.Supports decisions around product focus and market strategies.
 
 • **Walkthrough of Key Visuals**
 
